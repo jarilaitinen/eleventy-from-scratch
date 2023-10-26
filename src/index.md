@@ -9,6 +9,9 @@ intro:
   buttonUrl: '/work'
   image: '/images/bg/toast.jpg'
   imageAlt: 'Buttered toasted white bread'
+featuredWork:
+    title: 'Selected work'
+    summary: 'Some stuff that should give you an idea of what we’re all about.'
 primaryCTA:
     title: 'This is an agency that doesn’t actually exist'
     summary: 'This is the project site you build when you take the “Learn
